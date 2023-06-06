@@ -1,5 +1,5 @@
 # Impossible Tic-Tac-Toe
-Impossible Tic-Tac-Toe is designed to showcase the power of the minimax algorithm.
+This impossible Tic-Tac-Toe game is designed to showcase the power of the minimax algorithm.
 
 
 # Minimax Algorithm
